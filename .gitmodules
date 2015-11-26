@@ -1,0 +1,12 @@
+[submodule "vendor/src/github.com/ruizu/gcfg"]
+	path = vendor/src/github.com/ruizu/gcfg
+	url = https://github.com/ruizu/gcfg.git
+
+[submodule "vendor/src/github.com/julienschmidt/httprouter"]
+        path = vendor/src/github.com/julienschmidt/httprouter
+        url = https://github.com/julienschmidt/httprouter.git
+
+[submodule "vendor/src/github.com/boombuler/barcode"]
+        path = vendor/src/github.com/boombuler/barcode
+        url = https://github.com/boombuler/barcode.git
+
